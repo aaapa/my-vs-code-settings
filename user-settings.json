@@ -1,0 +1,25 @@
+{
+    "editor.tabSize": 2,
+    "editor.glyphMargin": false,
+    "breadcrumbs.enabled": false,
+    "editor.hover.enabled": false,
+    "window.commandCenter": false,
+    "editor.smoothScrolling": true,
+    "explorer.compactFolders": false,
+    "editor.cursorBlinking": "expand",
+    "workbench.startupEditor": "none",
+    "workbench.colorCustomizations": {
+        "selection.background": "#3D4556"
+    },
+    "editor.scrollBeyondLastLine": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.stickyScroll.enabled": false,
+    "editor.linkedEditing": true,
+    "git.autofetch": true,
+    "git.confirmSync": false
+}
