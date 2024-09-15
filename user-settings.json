@@ -20,6 +20,13 @@
     "security.workspace.trust.untrustedFiles": "open",
     "editor.stickyScroll.enabled": false,
     "editor.linkedEditing": true,
-    "git.autofetch": true,
-    "git.confirmSync": false
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.showActionButton": {
+        "commit": true,
+        "publish": true,
+        "sync": true
+    },
+    "scm.showActionButton": true
 }
